@@ -2,11 +2,9 @@
 title: Networking and Connectivity
 linkTitle: Networking and Connectivity
 description: This module shows how to connect to PostgreSQL in Docker in two common ways: from another container (internal network) and from your host machine (external access).
-weight: 30
 keywords:
-  - PostgreSQL Docker
-  - Docker Compose PostgreSQL
-  - container database
+  - Networking PostgreSQL Docker
+weight: 30
 ---
 
 This guide covers two common ways to connect to PostgreSQL running in Docker:
